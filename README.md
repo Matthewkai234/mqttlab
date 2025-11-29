@@ -8,18 +8,6 @@
 - Three subscribers, each subscribing to a specific topic and displaying messages
 - Each message includes my **Student ID: 12221042**
 
-## Folder Structure
-mqtt-lab/
-├── publishers/
-│ ├── temp_pub.py
-│ ├── humidity_pub.py
-│ └── peoplecounter_pub.py
-├── subscribers/
-│ ├── temp_sub.py
-│ ├── humidity_sub.py
-│ └── peoplecounter_sub.py
-└── mosquitto.conf
-
 ## How to Run
 
 1. **Start the Mosquitto broker using the configuration file**:
