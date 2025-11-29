@@ -11,7 +11,7 @@
 ## How to Run
 
 1. **Start the Mosquitto broker using the configuration file**:
-    mosquitto -c <path-to-your-mosquitto.conf> -v   
+    mosquitto -c <path-to-your-mosquitto.conf> -v 
    
 2. **Run the publishers (open separate CMD windows for each)**:
    cd mqtt-lab\publishers
